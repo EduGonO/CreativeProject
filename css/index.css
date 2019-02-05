@@ -68,6 +68,32 @@ footer { /* Footer */
   color: #e6e6e6;
 }
 
+.image-wrapper {
+  box-sizing:border-box;
+  float: left;
+  margin-bottom:5px;
+  width: 50%;
+}
+
+.image-wrapper:nth-child(even)
+{
+  padding-left:5px;
+}
+
+.image-wrapper:nth-child(odd)
+{
+  padding-right:5px;
+}
+
+.image-wrapper > img {
+  width: 100%;
+}
+
+.image-wrapper > span {
+  display: inline-block;
+  width: 100%;
+}
+
 @media (max-width: 600px) { /* Makes boxea vertical on iPhone */
   nav, article {
     width: 100%;
