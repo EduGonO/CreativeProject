@@ -72,7 +72,7 @@ footer { /* Footer */
   box-sizing:border-box;
   float: left;
   margin-bottom:5px;
-  width: 25%;
+  width: 25%; 
 }
 
 .icon:nth-child(even) {
