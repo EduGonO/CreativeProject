@@ -83,7 +83,7 @@ footer { /* Footer */
   padding-right:5px;
 }
 
-.icon > img {
+.icon > img { /*Size of images */
   width: 80%;
 }
 
