@@ -78,7 +78,7 @@ footer { /* Footer */
 .icon:nth-child(even) {
   padding-left:5px;
 }
-
+ 
 .icon:nth-child(odd) {
   padding-right:5px;
 }
