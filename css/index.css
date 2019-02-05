@@ -68,12 +68,18 @@ footer { /* Footer */
   color: #e6e6e6;
   margin-left: 25%;
   margin-right: 25%;
+  position:fixed;
+   left:0px;
+   bottom:0px;
+   height:30px;
+
 
 }
 
 /* Three image containers (use 25% for four, and 50% for two, etc) */
 .column {
   float: left;
+  width: 25%;
   padding: 25px;
 }
 
