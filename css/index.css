@@ -72,7 +72,7 @@ footer { /* Footer */
   box-sizing:border-box;
   float: left;
   margin-bottom:5px;
-  width: 25%; 
+  width: 25%;
 }
 
 .icon:nth-child(even) {
@@ -84,7 +84,7 @@ footer { /* Footer */
 }
 
 .icon > img { /*Size of images */
-  width: 80%;
+  width: 30%;
 }
 
 .icon > span { /* Captions under pictures */
