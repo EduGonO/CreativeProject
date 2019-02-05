@@ -80,7 +80,7 @@ footer { /* Footer */
 .column {
   float: left;
   width: 25%;
-  padding: auto;
+  padding-left: 5px;
 }
 
 /* Clear floats after image containers */
