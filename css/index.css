@@ -74,15 +74,15 @@ footer { /* Footer */
 .column {
   float: left;
   width: 12.5%;
-  padding: 10px;
+  padding: 5px;
 }
 
-/* Clear floats after image containers */
+/* Clear floats after image containers 
 .row::after {
   content: "";
   clear: both;
   display: table;
-}
+} */
 
 @media (max-width: 600px) { /* Makes boxea vertical on iPhone */
   nav, article {
