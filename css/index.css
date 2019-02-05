@@ -90,6 +90,46 @@ footer { /* Footer */
   display: table;
 }
 
+#bytes{
+      margin-top: 100px;
+      text-align: left;
+      min-width: 200px;
+      @media #{$size-medium}{
+        width: 50%;
+      }
+      @media #{$size-small}{
+        width: 100%;
+        margin-top: 40px;
+      }
+      font-size: 12px;
+      line-height: 1.4em;
+      h3{
+        font-size: 24px;
+        color: #848484;
+        font-weight: 400;
+      }
+      li{
+        clear: both;
+        border-top: 1px solid #D3CFC7;
+        padding-top: 15px;
+        margin-top: 15px;
+      }
+      img{
+        float: left;
+        margin-top: -10px;
+      }
+      h4{
+        font-weight: 700;
+        color: #4D4D4D;
+        margin-left: 60px;
+      }
+      p{
+        color: #7F7F7F;
+        font-size: 12px;
+        margin-left: 60px;
+      }
+    }
+
 @media (max-width: 600px) { /* Makes boxea vertical on iPhone */
   nav, article {
     width: 100%;
