@@ -24,7 +24,7 @@ section {
 }
 article {
   float: left;
-  padding-left: 10px;
+  padding-left: 20px;
   padding-right: 10px;
   height: 280px;
   width: 280px;
@@ -45,7 +45,6 @@ article {
   height: 280px;
   border-radius: 50%;
   margin: 10px;
-  padding-right: 10px;
 }
 
 article { #h4s
