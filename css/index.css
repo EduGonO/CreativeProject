@@ -107,10 +107,6 @@ footer { /* Footer */
   width: 50px;
 }
 
-#List {
-  line-height: 1.4em;
-}
-
 h3 {
   font-size: 24px;
   color: #e6e6e6;
@@ -122,6 +118,7 @@ li{
   border-top: 1px solid #D3CFC7;
   padding-top: 15px;
   margin-top: 15px;
+  list-style-type: none;
 }
 img{
   float: left;
