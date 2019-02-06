@@ -91,6 +91,10 @@ footer { /* Footer */
   height:10px;
 }
 
+.row {
+  heigh: 50px;
+}
+
 #bytes{
       margin-top: 100px;
       text-align: left;
