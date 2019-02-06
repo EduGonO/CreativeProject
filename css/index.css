@@ -18,12 +18,12 @@ header {
 
 article {
   float: left;
-  padding-left: 5%;
-  padding-right: 5%;
+  padding-left: 2%;
+  padding-right: 2%;
 }
 
-article img {
-  width: 3px;
+#AboutMe {
+  float: center;
 }
 
 #Me {
