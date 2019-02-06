@@ -107,6 +107,13 @@ footer { /* Footer */
   width: 50px;
 }
 
+body #body .bytes li {
+    clear: both;
+    border-top: 1px solid #D3CFC7;
+    padding-top: 15px;
+    margin-top: 15px;
+}
+
 h4 {
   margin-left: 60px;
   display: block;
