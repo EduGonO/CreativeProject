@@ -65,12 +65,12 @@ footer { /* Footer */
   background-color: rgb(47, 50, 53);
   padding: 15px;
   text-align: center;
-  color: #e6e6e6;
+  color: #e6e6e6; /*
   margin-left: 25%;
   margin-right: 25%;
   position: bottom; /*
    left:0px;
-   bottom:60px;*/
+   bottom:60px;*/*/
   height:100px;
 }
 
