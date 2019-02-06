@@ -53,7 +53,10 @@ article { /* About me */
   background-color: rgb(47, 50, 53);
   color: #e6e6e6;
   height: 300px;
-  border-radius: 50%;
+  img {
+    border-radius: 50%;
+  }
+
 }
 
 section:after {
