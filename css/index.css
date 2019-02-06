@@ -81,6 +81,7 @@ footer { /* Footer */
   float: left;
   width: 25%;
   padding-left: 10px;
+  height:100px;
 }
 
 /* Clear floats after image containers */
