@@ -102,13 +102,16 @@ footer { /* Footer */
 
 }
 
+#ImList { /*NECESARIO*/
+  height: 50px;
+  width: 50px;
+}
 
-
-h3{
-        font-size: 24px;
-        color: #848484;
-        font-weight: 400;
-      }
+h3 {
+  font-size: 24px;
+  color: #e6e6e6;
+  font-weight: 400;
+}
       li{
         clear: both;
         border-top: 1px solid #D3CFC7;
