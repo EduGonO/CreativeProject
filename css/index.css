@@ -23,6 +23,7 @@ p#Intro {
 section {
   margin-left: auto;
   margin-right: auto;
+  margin-top: 10px;
   float: center;
   width: 960px; /* cambiar a % */
 }
