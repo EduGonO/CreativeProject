@@ -95,6 +95,9 @@ footer { /* Footer */
 .row {
   height: 50px;
   float: center;
+  padding-left: 50px;
+  padding-right: 10px;
+
 }
 
 #bytes{
