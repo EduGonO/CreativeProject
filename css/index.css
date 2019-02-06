@@ -77,7 +77,7 @@ footer { /* Footer */
 /* Three image containers (use 25% for four, and 50% for two, etc) */
 .column {
   float: left;
-  width: 100px;
+  width: 70px;
   padding-left: 10px;
   height:100px;
   float: center;
@@ -93,6 +93,7 @@ footer { /* Footer */
 
 .row {
   heigh: 50px;
+  float: center;
 }
 
 #bytes{
