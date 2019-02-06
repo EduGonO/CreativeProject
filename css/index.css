@@ -102,6 +102,11 @@ footer { /* Footer */
 
 }
 
+#ImList {
+  height: 50px;
+  width: 50px;
+}
+
 .bytes{
       margin-top: 100px;
       text-align: left;
