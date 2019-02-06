@@ -72,15 +72,15 @@ footer { /* Footer */
    left:0px;
    bottom:60px;*/
   height:100px;
-
 }
 
 /* Three image containers (use 25% for four, and 50% for two, etc) */
 .column {
   float: left;
-  width: 25px;
+  width: 100px;
   padding-left: 10px;
   height:100px;
+  float: center;
 }
 
 /* Clear floats after image containers */
