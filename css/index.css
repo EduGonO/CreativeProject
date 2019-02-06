@@ -20,12 +20,12 @@ section {
   margin-left: auto;
   margin-right: auto;
   float: center;
-  width: 960px; #cambiar a %
+  width: 960px; /* cambiar a % */ 
 }
 
 section#Me {
   float: left;
-  padding: 10px; #cambiar a %
+  padding: 10px; /* cambiar a % */
   height: 320px;
   width: 320px;
   margin: auto;
@@ -33,7 +33,7 @@ section#Me {
 
 div#AboutMe {
   float: left;
-  padding: 10px; #cambiar a %
+  padding: 10px;/* cambiar a % */
   height: 320px;
   width: 320px;
   margin: auto;
@@ -43,7 +43,7 @@ div#AboutMe {
   float: center;
   width: 300px;
   height: 300px;
-  padding: 10px; #cambiar a %
+  padding: 10px;/* cambiar a % */
   margin: auto;
 }
 
@@ -51,7 +51,7 @@ img#Me {
   width: 300px;
   height: 300px;
   border-radius: 50%;
-  padding: 10px; #cambiar a %
+  padding: 10px; /* cambiar a % */
   margin-top: 0px;
 }
 
