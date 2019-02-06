@@ -45,6 +45,10 @@ article a { /*Links/Photo Labels*/
   margin: auto;
 }
 
+#AboutMe {
+  width: 300px;
+}
+
 article { /*Roasted Duck Recipie*/
   float: left;
   font-family: "Avenir", Helvetica, Arial, sans-serif;
