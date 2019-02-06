@@ -89,6 +89,7 @@ footer { /* Footer */
   content: "";
   clear: both;
   display: table;
+  height:100px;
 }
 
 #bytes{
