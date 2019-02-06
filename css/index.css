@@ -20,11 +20,11 @@ section {
   margin-left: auto;
   margin-right: auto;
   float: center;
-  width: 1200px;
+  width: 1200px; #cambiar a %
 }
 article {
   float: left;
-  padding: 10px;
+  padding: 10px; #cambiar a %
   height: 320px;
   width: 320px;
   margin: 10px;
@@ -32,17 +32,17 @@ article {
 
 #AboutMe {
   float: center;
-  width: 280px;
+  width: 300px;
+  height: 300px;
   margin: 10px;
-  padding-left: auto;
-  padding-right: auto;
+  padding: 10px; #cambiar a %
 }
 
 #Me {
-  width: 280px;
-  height: 280px;
+  width: 300px;
+  height: 300px;
   border-radius: 50%;
-  margin: 10px;
+  padding: 10px; #cambiar a %
 }
 
 article { #h4s
