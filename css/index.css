@@ -107,21 +107,48 @@ footer { /* Footer */
   width: 50px;
 }
 
-body #body .bytes li {
-    clear: both;
-    border-top: 1px solid #D3CFC7;
-    padding-top: 15px;
-    margin-top: 15px;
-}
+body {
+  #bytes {
+      margin-top: 100px;
+      text-align: left;
+      min-width: 200px;
+      @media #{$size-medium}{
+        width: 50%;
+      }
+      @media #{$size-small}{
+        width: 100%;
+        margin-top: 40px;
+      }
+      font-size: 12px;
+      line-height: 1.4em;
+      h3{
+        font-size: 24px;
+        color: #848484;
+        font-weight: 400;
+      }
+      li{
+        clear: both;
+        border-top: 1px solid #D3CFC7;
+        padding-top: 15px;
+        margin-top: 15px;
+      }
+      img{
+        float: left;
+        margin-top: -10px;
+      }
+      h4{
+        font-weight: 700;
+        color: #4D4D4D;
+        margin-left: 60px;
+      }
+      p{
+        color: #7F7F7F;
+        font-size: 12px;
+        margin-left: 60px;
+      }
+    }
+  }
 
-body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, code, form, fieldset, legend, input, textarea, p, blockquote, th, td {
-    margin: 0;
-    padding: 0;
-    padding-top: 0px;
-    padding-right: 0px;
-    padding-bottom: 0px;
-    padding-left: 0px;
-}
 
 h4 {
   margin-left: 60px;
