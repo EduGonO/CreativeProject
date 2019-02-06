@@ -131,16 +131,17 @@ img{
 h4 {
   margin-left: 60px;
   display: block;
-  margin-block-start: 1.33em;
+  margin-block-start: 1.33px;
   margin-block-end: 1.33em;
   margin-inline-end: 0px;
+  line-height: 22px;
+  margin-top: -5px;
 }
 
-p {
+# List p {
+  margin-top: -20px;
   margin-left: 60px;
 }
-
-
 
 @media (max-width: 600px) { /* Makes boxea vertical on iPhone */
   nav, article {
