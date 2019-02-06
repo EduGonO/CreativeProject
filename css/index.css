@@ -23,7 +23,7 @@ section {
   width: 960px; #cambiar a %
 }
 
-article {
+section#Me {
   float: left;
   padding: 10px; #cambiar a %
   height: 320px;
