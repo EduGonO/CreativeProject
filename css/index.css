@@ -24,17 +24,15 @@ section {
 }
 article {
   float: left;
-  padding-left: 20px;
-  padding-right: 10px;
-  height: 280px;
-  width: 290px;
+  padding: 10px;
+  height: 320px;
+  width: 320px;
   margin: 10px;
 }
 
 #AboutMe {
   float: center;
   width: 280px;
-
   margin: 10px;
   padding-left: auto;
   padding-right: auto;
