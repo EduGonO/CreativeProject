@@ -39,6 +39,9 @@ article a { /*Links/Photo Labels*/
 article img {
   width: 90%;
   border-radius: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  margin: auto;
 }
 
 article { /*Roasted Duck Recipie*/
