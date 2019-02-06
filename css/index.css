@@ -107,25 +107,26 @@ footer { /* Footer */
   width: 50px;
 }
 
-.bytes ul {
-      line-height: 1.4em;
+#List {
+  line-height: 1.4em;
 }
+
 h3 {
   font-size: 24px;
   color: #e6e6e6;
   font-weight: 400;
 }
-      li{
-        clear: both;
-        border-top: 1px solid #D3CFC7;
-        padding-top: 15px;
-        margin-top: 15px;
-      }
-      img{
-        float: left;
-        margin-top: -10px;
-      }
 
+li{
+  clear: both;
+  border-top: 1px solid #D3CFC7;
+  padding-top: 15px;
+  margin-top: 15px;
+}
+img{
+  float: left;
+  margin-top: -10px;
+}
 
 h4 {
   margin-left: 60px;
