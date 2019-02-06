@@ -102,10 +102,7 @@ footer { /* Footer */
 
 }
 
-#ImList {
-  height: 50px;
-  width: 50px;
-}
+
 
 h3{
         font-size: 24px;
@@ -181,41 +178,7 @@ p {
         margin-left: 60px;
       }
     }
-/*
-    body #body #bytes {
-      margin-top: 100px;
-      text-align: left;
-      min-width: 200px;
-      font-size: 12px;
-      line-height: 1.4em; }
-      @media only screen and (max-width: 860px) {
-        body #body #bytes {
-          width: 50%; } }
-      @media only screen and (max-width: 490px) {
-        body #body #bytes {
-          width: 100%;
-          margin-top: 40px; } }
-      body #body #bytes h3 {
-        font-size: 24px;
-        color: #848484;
-        font-weight: 400; }
-      body #body #bytes li {
-        clear: both;
-        border-top: 1px solid #D3CFC7;
-        padding-top: 15px;
-        margin-top: 15px; }
-      body #body #bytes img {
-        float: left;
-        margin-top: -10px; }
-      body #body #bytes h4 {
-        font-weight: 700;
-        color: #4D4D4D;
-        margin-left: 60px; }
-      body #body #bytes p {
-        color: #7F7F7F;
-        font-size: 12px;
-        margin-left: 60px; }
-*/
+
 @media (max-width: 600px) { /* Makes boxea vertical on iPhone */
   nav, article {
     width: 100%;
