@@ -107,6 +107,9 @@ footer { /* Footer */
   width: 50px;
 }
 
+.bytes ul {
+      line-height: 1.4em;
+}
 h3 {
   font-size: 24px;
   color: #e6e6e6;
