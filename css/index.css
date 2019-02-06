@@ -17,10 +17,10 @@ header {
 }
 
 section {
-  margin-left: auto;
+  margin-left: 10%;
   margin-right: auto;
   float: center;
-  width: 1200px; #cambiar a %
+  width: 960px; #cambiar a %
 }
 
 article {
