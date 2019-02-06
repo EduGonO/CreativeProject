@@ -181,7 +181,7 @@ p {
         margin-left: 60px;
       }
     }
-
+/*
     body #body #bytes {
       margin-top: 100px;
       text-align: left;
@@ -215,7 +215,7 @@ p {
         color: #7F7F7F;
         font-size: 12px;
         margin-left: 60px; }
-
+*/
 @media (max-width: 600px) { /* Makes boxea vertical on iPhone */
   nav, article {
     width: 100%;
