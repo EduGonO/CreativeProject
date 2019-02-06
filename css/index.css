@@ -16,6 +16,11 @@ header {
   color: #e6e6e6;
 }
 
+section {
+  margin-left: auto;
+  margin-right: auto;
+  float: center;
+}
 article {
   float: left;
   padding-left: 2%;
@@ -26,6 +31,10 @@ article {
   float: center;
   min-width: 250px;
   max-width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: auto;
+  padding-right: auto;
 }
 
 #Me {
