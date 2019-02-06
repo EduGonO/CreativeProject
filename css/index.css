@@ -25,6 +25,7 @@ article {
 #AboutMe {
   float: center;
   min-width: 300px;
+  max-width: 500px;
 }
 
 #Me {
