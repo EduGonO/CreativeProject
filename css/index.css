@@ -14,6 +14,8 @@ header {
   text-align: center;
   font-size: 30px;
   color: #e6e6e6;
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
 
 article { /*Top 25 Cooking*/
