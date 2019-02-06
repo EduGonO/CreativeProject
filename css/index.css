@@ -10,68 +10,29 @@ body {
 
 header {
   background-color: rgb(47, 50, 53); /* GRIS FINAL */
-  padding: 20px;
+  padding: 10px;
   text-align: center;
   font-size: 30px;
   color: #e6e6e6;
-  margin-top: 10px;
-  margin-bottom: 10px;
 }
 
-article { /*Top 25 Cooking*/
+article {
   float: left;
-  font-family: "Avenir", Helvetica, Arial, sans-serif;
-  padding: 20px; 
-  width: 300px;
-  text-decoration: none;
-  background-color: rgb(47, 50, 53);
-  color: #e6e6e6;
-  height: 300px;
-}
-
-article a { /*Links/Photo Labels*/
-  font: 22px "Avenir", Helvetica, Arial, sans-serif;
-  text-decoration: none;
-  color: #e6e6e6;
-  font-size: 14px;
+  padding: 10px;
 }
 
 #Me {
   width: 300px;
   height: 300px;
   border-radius: 50%;
-  margin-left: auto;
-  margin-right: auto;
-  margin: auto;
+  margin: 10px;
 }
 
-#AboutMe {
-  width: 300px;
-}
-
-article { /*Roasted Duck Recipie*/
-  float: left;
-  font-family: "Avenir", Helvetica, Arial, sans-serif;
-  padding: 20px;
-  width: 33%;
-  text-decoration: none;
-  background-color: rgb(47, 50, 53);
-  color: #e6e6e6;
-  height:
-}
-
-article { /* About me */
-  float: left;
-  font-family: "Avenir", Helvetica, Arial, sans-serif;
-  padding: 20px;
+article { #h4s
   width: 33%;
   background-color: rgb(47, 50, 53);
   color: #e6e6e6;
   height: 300px;
-  img {
-    border-radius: 50%;
-  }
-
 }
 
 section:after {
@@ -83,13 +44,6 @@ section:after {
 footer { /* Footer */
   background-color: rgb(47, 50, 53);
   padding: 15px;
-  text-align: center;
-  color: #e6e6e6; /*
-  margin-left: 25%;
-  margin-right: 25%;
-  position: bottom;
-   left:0px;
-   bottom:60px;*/
   height:85px;
   position: bottom;
 }
@@ -103,19 +57,17 @@ footer { /* Footer */
   float: center;
 }
 
-/* Clear floats after image containers */
+/* Clear floats after image containers
 .row::after {
   content: "";
   clear: both;
   display: table;
   height:10px;
-}
+}*/
 
 .row {
   height: 50px;
   float: center;
-  padding-left: auto;
-  padding-right: auto;
   width: 280px;
   margin-left: auto;
   margin-right: auto;
@@ -140,12 +92,11 @@ ul {
 }
 
 li{
-  clear: both;/*
-  border-top: 1px solid #545454;*/
+  /*border-top: 1px solid #545454;*/
   padding-top: 15px;
-  margin-top: 15px;
   list-style-type: none;
 }
+
 img{
   float: left;
   margin-top: -10px;
@@ -153,11 +104,7 @@ img{
 
 h4 {
   margin-left: 70px;
-  display: block;
-  margin-block-start: 1.33px;
-  margin-block-end: 1.33em;
-  margin-inline-end: 0px;
-  margin-top: -5px;
+  margin-top: -7px;
 }
 
 .List p {
