@@ -42,6 +42,10 @@ div#AboutMe {
   height: 280px;
   min-width: 320px;
   margin: auto;
+  padding-left: 5%;
+  padding-right: 5%;
+  display: inline-block;
+
 }
 
 img#Me {
