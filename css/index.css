@@ -53,6 +53,7 @@ article { /* About me */
   background-color: rgb(47, 50, 53);
   color: #e6e6e6;
   height: 300px;
+  border-radius: 50%;
 }
 
 section:after {
@@ -72,7 +73,7 @@ footer { /* Footer */
    left:0px;
    bottom:60px;*/
   height:85px;
-  position: bottom; 
+  position: bottom;
 }
 
 .column {
@@ -119,8 +120,8 @@ ul {
 }
 
 li{
-  clear: both;
-  border-top: 1px solid #D3CFC7;
+  clear: both;/*
+  border-top: 1px solid #545454;*/
   padding-top: 15px;
   margin-top: 15px;
   list-style-type: none;
@@ -131,7 +132,7 @@ img{
 }
 
 h4 {
-  margin-left: 60px;
+  margin-left: 70px;
   display: block;
   margin-block-start: 1.33px;
   margin-block-end: 1.33em;
@@ -141,7 +142,7 @@ h4 {
 
 .List p {
   margin-top: -20px;
-  margin-left: 60px;
+  margin-left: 70px;
 }
 
 @media (max-width: 600px) { /* Makes boxea vertical on iPhone */
