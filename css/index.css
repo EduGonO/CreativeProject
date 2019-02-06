@@ -21,7 +21,7 @@ header {
 article { /*Top 25 Cooking*/
   float: left;
   font-family: "Avenir", Helvetica, Arial, sans-serif;
-  padding: 20px;
+  padding: 20px; 
   width: 300px;
   text-decoration: none;
   background-color: rgb(47, 50, 53);
