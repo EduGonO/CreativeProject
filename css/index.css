@@ -46,6 +46,8 @@ img#Me {
   border-radius: 50%;
   padding: 10px; /* cambiar a % */
   margin-top: 0px;
+  margin-left: 10%;
+  margin-right: 5%;
 }
 
 article { #h4s
