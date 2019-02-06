@@ -73,7 +73,6 @@ footer { /* Footer */
    bottom:60px;*/
   height:100px;
 
-
 }
 
 /* Three image containers (use 25% for four, and 50% for two, etc) */
@@ -89,7 +88,7 @@ footer { /* Footer */
   content: "";
   clear: both;
   display: table;
-  height:100px;
+  height:10px;
 }
 
 #bytes{
