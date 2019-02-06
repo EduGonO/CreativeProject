@@ -107,6 +107,14 @@ footer { /* Footer */
   width: 50px;
 }
 
+h4 {
+  margin-left: 60px;
+}
+
+p {
+  margin-left: 60px;
+}
+
 .bytes{
       margin-top: 100px;
       text-align: left;
