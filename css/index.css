@@ -24,8 +24,8 @@ section {
 }
 article {
   float: left;
-  padding-left: 2%;
-  padding-right: 2%;
+  padding-left: 10px;
+  padding-right: 10px;
 }
 
 #AboutMe {
