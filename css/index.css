@@ -68,10 +68,11 @@ footer { /* Footer */
   color: #e6e6e6; /*
   margin-left: 25%;
   margin-right: 25%;
-  position: bottom; /*
+  position: bottom;
    left:0px;
-   bottom:60px;*/*/
+   bottom:60px;*/
   height:85px;
+  position: bottom; 
 }
 
 .column {
@@ -136,12 +137,6 @@ h4 {
   margin-block-end: 1.33em;
   margin-inline-end: 0px;
   margin-top: -5px;
-}
-
-.bytes {
-
-    padding-left: 0px;
-
 }
 
 .List p {
