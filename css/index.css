@@ -23,10 +23,6 @@ section {
   width: 1200px; #cambiar a %
 }
 
-#test {
-  height: 320px;
-  width: 320px;
-}
 article {
   float: left;
   padding: 10px; #cambiar a %
@@ -42,8 +38,8 @@ article {
 }
 
 img#Me {
-  width: 300px;
-  height: 300px;
+  width: 310px;
+  height: 310px;
   border-radius: 50%;
   padding: 10px; #cambiar a %
 }
