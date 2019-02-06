@@ -36,8 +36,9 @@ article a { /*Links/Photo Labels*/
   font-size: 14px;
 }
 
- #Me {
-  width: 100px;
+#Me {
+  width: 300px;
+  height: 300px;
   border-radius: 50%;
   margin-left: auto;
   margin-right: auto;
