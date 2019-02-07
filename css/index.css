@@ -35,9 +35,8 @@ div#AboutMe {
   min-width: 320px;
   margin: auto;
   display: inline-block;
-  margin-left: 5px;
+  margin-left: 15%;
   margin-right: 5px;
-
 }
 
 img#Me {
