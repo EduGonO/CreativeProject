@@ -94,6 +94,8 @@ footer { /* Footer */
   height: 50px;
   width: 50px;
 
+  filter: url(/shadow/shadow.svg#drop-shadow);
+  -webkit-filter: drop-shadow(0px 0px 4px rgb(0, 0, 0));
   filter: drop-shadow(0px 0px 4px rgb(0, 0, 0));
   filter: url(shadow.svg#drop-shadow);
 }
