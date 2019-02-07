@@ -123,6 +123,11 @@ h4 {
   margin-top: -7px;
 }
 
+img#Social {
+  height: 50px;
+  width: 50px;
+}
+
 .List p {
   margin-top: -20px;
   margin-left: 70px;
