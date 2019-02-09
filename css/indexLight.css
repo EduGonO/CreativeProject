@@ -1,0 +1,140 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Avenir", Helvetica, Arial, sans-serif;
+  background-color: rgb(251, 251, 251);
+  color: rgb(73, 73, 73);
+  }
+
+header {
+  background-color: rgb(251, 251, 251); /* GRIS FINAL */
+  margin: 10px;
+  text-align: center;
+  font-size: 30px;
+  color: rgb(73, 73, 73);
+}
+
+p#Intro {
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+section#Me {
+  float: left;
+  padding: 10px; /* cambiar a % */
+  height: 320px;
+  width: 320px;
+  margin: auto;
+
+}
+
+div#AboutMe {
+  float: left;
+  padding: 10px;/* cambiar a % */
+  height: 280px;
+  min-width: 320px;
+  margin: auto;
+  display: inline-block;
+  margin-left: 10px;
+  margin-right: 0;
+}
+
+img#Me {
+  width: 280px;
+  height: 280px;
+  border-radius: 50%;
+  margin-top: 0px;
+  margin-left: 10vw;
+  margin-right: 3vw;
+  margin-bottom: 20px;
+  box-shadow: 0px 0px 40px rgb(31, 34, 37);
+}
+
+article { #h4s
+  width: 33%;
+  background-color: rgb(251, 251, 251);
+  color: rgb(73, 73, 73);
+  height: auto;
+}
+
+section:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+footer { /* Footer */
+  background-color: rgb(251, 251, 251);
+  padding: 15px;
+  height:85px;
+  position: bottom;
+}
+
+.column {
+  float: left;
+  width: 50px;
+  height:50px;
+  float: center;
+  margin: 10px;
+}
+
+
+.row {
+  height: 50px;
+  float: center;
+  width: 280px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#ImList { /*NECESARIO*/
+  height: 50px;
+  width: 50px;
+}
+
+h3 {
+  font-size: 24px;
+  color: rgb(73, 73, 73);
+  font-weight: 400;
+  margin-top: auto;
+  margin-bottom: auto;
+}
+
+ul {
+    padding-left: 0px;
+}
+
+li{
+  /*border-top: 0.5px solid #545454;*/
+  padding-top: 15px;
+  list-style-type: none;
+}
+
+img{
+  float: left;
+  margin-top: -10px;
+}
+
+h4 {
+  margin-left: 70px;
+  margin-top: -7px;
+}
+
+img#Social {
+  height: 50px;
+  width: 50px;
+}
+
+.List p {
+  margin-top: -20px;
+  margin-left: 70px;
+}
+
+@media (max-width: 600px) { /* Makes boxea vertical on iPhone */
+  section, div {
+    width: 100%;
+    height: auto;
+  }
+}
