@@ -8,6 +8,12 @@ body {
   color: #e6e6e6;
 }
 
+div.hover {
+  border: 5px solid;
+  border-color: #c04360;
+  /*color: #c04360;*/
+}
+
 header {
   background-color: rgb(54,57,70); /* GRIS FINAL */
   margin: 10px;
