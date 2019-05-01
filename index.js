@@ -1,5 +1,20 @@
 window.onload=function(){
   addBorders();
+  movieInfo();
+}
+
+function movieInfo() {
+  let hrx = new XMLHttpRequest()
+  var trivia;
+  hrx.open("GET", "movies.php", true);
+  hrx.send();
+
+  hrx.onreadystatechange = function() {
+
+    var list = document.getElementById("movies");
+    alert(list.length);
+
+  }
 }
 
 function addBorders() {

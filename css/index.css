@@ -71,6 +71,14 @@ section:after {
   clear: both;
 }
 
+.rowPoster {
+  height: 200px;
+  float: center;
+  width: 610px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 footer { /* Footer */
   background-color: rgb(54,57,70);
   padding: 15px;
@@ -86,7 +94,6 @@ footer { /* Footer */
   margin: 10px;
 }
 
-
 .row {
   height: 50px;
   float: center;
@@ -94,6 +101,8 @@ footer { /* Footer */
   margin-left: auto;
   margin-right: auto;
 }
+
+
 
 #ImList { /*NECESARIO*/
   height: 50px;
@@ -116,6 +125,28 @@ li{
   /*border-top: 0.5px solid #545454;*/
   padding-top: 15px;
   list-style-type: none;
+}
+
+section#posters{
+  background-color: rgb(54,57,70);
+  height:245px;
+}
+
+img#Poster {
+  height: 200px;
+  width: 100px;
+}
+
+.poster {
+  float: left;
+  width: 130px;
+  height:200px;
+  float: center;
+  margin: 10px;
+}
+
+#text {
+  color: red;
 }
 
 img{
@@ -142,5 +173,6 @@ img#Social {
   section, div {
     width: 100%;
     height: auto;
+    text-align: center;
   }
 }
